@@ -1,8 +1,9 @@
 # DogFoodSales
 The task is two-fold:
 
-Analyze how customer characteristics and behaviors affect their purchase patterns
-Analyze how ad exposure affect their purchases with the goal of maximizing revenue
+#Analyze how customer characteristics and behaviors affect their purchase patterns
+
+#Analyze how ad exposure affect their purchases with the goal of maximizing revenue
 Data columns
 
 Column
